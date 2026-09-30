@@ -1,0 +1,15 @@
+# Cache de Python
+__pycache__/
+*.py[cod]
+
+# Logs y reportes locales
+*.log
+reporte_portadas_*.txt
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
