@@ -2,8 +2,7 @@
 
 A collection of personal Python scripts designed for audio file management, metadata inspection, and media organization.
 
-## Structure
-
+## Structur
 - `audio-tools/`
   - `cover_cropper.py`: Automatically inspects audio files, extracts embedded artwork, and crops it into a 1:1 square ratio while offering dry-run and backup protections.
   - `song_counter.py`: Recursively counts audio tracks across directories while filtering out non-audio files (e.g., `.lrc` lyrics).
