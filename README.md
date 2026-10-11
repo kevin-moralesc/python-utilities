@@ -13,7 +13,7 @@ A collection of personal Python scripts designed for audio file management, meta
 
 ## Prerequisites
 
-Ensure you have Python installed. Install the required external packages using:
+Ensure you have Python installed. Install the required external packages :
 
 ```bash
 pip install music-tag Pillow
