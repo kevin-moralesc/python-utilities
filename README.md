@@ -18,5 +18,5 @@ Ensure you have Python installed. Install the required external packages using:
 ```bash
 pip install music-tag Pillow
 
-
+# : ) 
 
